@@ -1,8 +1,10 @@
-/**
- * Created by Madis on 10.03.2015.
- */
+
 public class Peaklass {
     public static void main(String[] args) {
-        System.out.println("test");
+        for (int i = 0; i < 10; i++) {
+            Täring y = new Täring();
+            System.out.println(y.täringuvise);
+
+        }
     }
 }
