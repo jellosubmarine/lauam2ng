@@ -6,16 +6,17 @@ import java.util.Scanner;
  */
 public class Suhtlus {
     public static void main(String[] args) {
-        ArrayList<Nupp> mängijad = new ArrayList<Nupp>():
+        ArrayList<Nupp> mängijad = new ArrayList<Nupp>();
         Scanner sc = new Scanner(System.in);
         System.out.println("Sisesta mängijate arv");
         int limiit = sc.nextInt();
-        int i = 1;
+        int i = 0;
 
-        while(i <= limiit) {
+        while(i < limiit) {
             System.out.println("Sisesta mängija nimi");
             String nimi = sc.next();
-            mängijad.add(new Nupp(nimi, 0));
+            mängijad.add(new Nupp(nimi));
+            i++;
 
 
         }
