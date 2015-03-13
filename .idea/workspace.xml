@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63af21a2-41e4-4711-80a5-eb39a650524b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Väli.java" />
-      <change type="DELETED" beforePath="C:\oop\lauam2ng\.idea\workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\oop\lauam2ng\src\Suhtlus.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="C:\oop\lauam2ng\out\production\lauam2ng\Peaklass.class" afterPath="C:\oop\lauam2ng\out\production\lauam2ng\Peaklass.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/lauam2ng/Suhtlus.class" afterPath="$PROJECT_DIR$/out/production/lauam2ng/Suhtlus.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Nupp.java" afterPath="$PROJECT_DIR$/src/Nupp.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Peaklass.java" afterPath="$PROJECT_DIR$/src/Peaklass.java" />
-    </list>
+    <list default="true" id="63af21a2-41e4-4711-80a5-eb39a650524b" name="Default" comment="" />
     <ignored path="lauam2ng.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -493,12 +485,12 @@
       <workItem from="1426075210340" duration="534000" />
       <workItem from="1426249609375" duration="2203000" />
       <workItem from="1426252476157" duration="2222000" />
-      <workItem from="1426254972830" duration="6140000" />
+      <workItem from="1426254972830" duration="6470000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17081000" />
+    <option name="totallyTimeSpent" value="17411000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
