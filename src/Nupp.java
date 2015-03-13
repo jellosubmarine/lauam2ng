@@ -18,7 +18,7 @@ public class Nupp {
     }
 
     //konstruktor
-    public Nupp(String nimi, int asukoht) {
+    public Nupp(String nimi) {
         this.nimi = nimi;
         this.asukoht = asukoht;
     }
