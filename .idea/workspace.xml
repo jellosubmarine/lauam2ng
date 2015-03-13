@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63af21a2-41e4-4711-80a5-eb39a650524b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TavaVäli.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Väli2edasi.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/lauam2ng/Nupp.class" afterPath="$PROJECT_DIR$/out/production/lauam2ng/Nupp.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Peaklass.java" afterPath="$PROJECT_DIR$/src/Peaklass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ÜksikVäli.java" afterPath="$PROJECT_DIR$/src/ÜksikVäli.java" />
-    </list>
+    <list default="true" id="63af21a2-41e4-4711-80a5-eb39a650524b" name="Default" comment="" />
     <ignored path="lauam2ng.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -379,15 +372,15 @@
       <option name="number" value="Default" />
       <updated>1425986000145</updated>
       <workItem from="1425986003865" duration="5545000" />
-      <workItem from="1426250178766" duration="1991000" />
+      <workItem from="1426250178766" duration="2301000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7536000" />
+    <option name="totallyTimeSpent" value="7846000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
