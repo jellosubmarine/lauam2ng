@@ -1,7 +1,7 @@
 
 public class Nupp {
 
-    int asukoht;
+    int asukoht = 0;
     String nimi;
 
     //get ja set meetodid
@@ -13,13 +13,12 @@ public class Nupp {
         return asukoht;
     }
 
-    public void setAsukoht(int asukoht) {
-        this.asukoht = asukoht;
+    public void setAsukoht(int muut) {
+        this.asukoht = asukoht + muut;
     }
 
     //konstruktor
     public Nupp(String nimi) {
         this.nimi = nimi;
-        this.asukoht = asukoht;
     }
 }
