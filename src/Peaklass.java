@@ -24,8 +24,8 @@ public class Peaklass {
             mänguväli.add(new Väli());
         }
         int k = 0;
-        boolean check = true;
-        while(check){
+        System.out.println(mänguväli.size());
+        while(true){
             int veeretus = y.vise();
             System.out.println(mängijad.get(k) + " veeretas " + veeretus);
             mängijad.get(k).setAsukoht(veeretus);

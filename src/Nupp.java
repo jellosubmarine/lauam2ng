@@ -10,6 +10,9 @@ public class Nupp {
     }
 
     public int getAsukoht() {
+        if(asukoht >= 40) {
+            return 40;
+        }
         return asukoht;
     }
 
