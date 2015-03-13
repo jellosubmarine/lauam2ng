@@ -10,6 +10,7 @@ public class Nupp {
     }
 
     public int getAsukoht() {
+
         return asukoht;
     }
 
