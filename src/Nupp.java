@@ -19,7 +19,7 @@ public class Nupp {
 
     @Override
     public String toString() {
-        return nimi + " @" + asukoht ;
+        return nimi ;
     }
 
     //konstruktor
