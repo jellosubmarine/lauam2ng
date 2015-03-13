@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< .merge_file_a03144
+    <list default="true" id="63af21a2-41e4-4711-80a5-eb39a650524b" name="Default" comment="" />
+=======
     <list default="true" id="63af21a2-41e4-4711-80a5-eb39a650524b" name="Default" comment="">
+<<<<<<< .merge_file_a04868
 <<<<<<< HEAD
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Nupp.java" afterPath="$PROJECT_DIR$/src/Nupp.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Peaklass.java" afterPath="$PROJECT_DIR$/src/Peaklass.java" />
@@ -10,7 +14,12 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Peaklass.java" afterPath="$PROJECT_DIR$/src/Peaklass.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Täring.java" afterPath="$PROJECT_DIR$/src/Täring.java" />
 >>>>>>> e078dced6305287bd168b4497e88d185c1a2ada3
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Nupp.java" afterPath="$PROJECT_DIR$/src/Nupp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Suhtlus.java" afterPath="$PROJECT_DIR$/src/Suhtlus.java" />
+>>>>>>> .merge_file_a01208
     </list>
+>>>>>>> .merge_file_a11164
     <ignored path="lauam2ng.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -35,14 +44,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Peaklass.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Peaklass.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Peaklass.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .merge_file_a04868
 <<<<<<< HEAD
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
               <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
 =======
             <state vertical-scroll-proportion="0.31648937" vertical-offset="0" max-vertical-offset="376">
+=======
+<<<<<<< .merge_file_a03144
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+=======
+            <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="289">
+>>>>>>> .merge_file_a11164
+>>>>>>> .merge_file_a01208
               <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
 >>>>>>> e078dced6305287bd168b4497e88d185c1a2ada3
               <folding />
@@ -53,11 +70,15 @@
       <file leaf-file-name="Täring.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Täring.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .merge_file_a04868
 <<<<<<< HEAD
             <state vertical-scroll-proportion="0.23943663" vertical-offset="0" max-vertical-offset="426">
               <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
 =======
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+=======
+            <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="255">
+>>>>>>> .merge_file_a01208
               <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
 >>>>>>> e078dced6305287bd168b4497e88d185c1a2ada3
               <folding />
@@ -68,6 +89,7 @@
       <file leaf-file-name="Nupp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Nupp.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .merge_file_a04868
 <<<<<<< HEAD
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
               <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
@@ -81,13 +103,18 @@
 =======
             <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="527">
               <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+=======
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+>>>>>>> .merge_file_a01208
               <folding>
-                <element signature="e#111#112#0" expanded="true" />
-                <element signature="e#138#139#0" expanded="true" />
                 <element signature="e#169#170#0" expanded="true" />
                 <element signature="e#199#200#0" expanded="true" />
+<<<<<<< .merge_file_a04868
                 <element signature="e#280#281#0" expanded="true" />
 >>>>>>> e078dced6305287bd168b4497e88d185c1a2ada3
+=======
+>>>>>>> .merge_file_a01208
               </folding>
             </state>
           </provider>
@@ -123,12 +150,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Mänguväli.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Mänguväli.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Mänguväli.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .merge_file_a04868
             <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="153">
+=======
+<<<<<<< .merge_file_a03144
+            <state vertical-scroll-proportion="0.02905983" vertical-offset="0" max-vertical-offset="585">
+=======
+            <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="153">
+>>>>>>> .merge_file_a11164
+>>>>>>> .merge_file_a01208
               <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Suhtlus.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Suhtlus.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.88297874" vertical-offset="42" max-vertical-offset="527">
+              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#214#220#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -142,7 +190,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Mänguväli.java" />
-        <option value="$PROJECT_DIR$/src/Nupp.java" />
         <option value="$PROJECT_DIR$/src/Täring.java" />
 <<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/ÜksikVäli.java" />
@@ -152,7 +199,12 @@
         <option value="$PROJECT_DIR$/src/Väli2edasi.java" />
 =======
         <option value="$PROJECT_DIR$/src/Peaklass.java" />
+<<<<<<< .merge_file_a04868
 >>>>>>> e078dced6305287bd168b4497e88d185c1a2ada3
+=======
+        <option value="$PROJECT_DIR$/src/Nupp.java" />
+        <option value="$PROJECT_DIR$/src/Suhtlus.java" />
+>>>>>>> .merge_file_a01208
       </list>
     </option>
   </component>
@@ -190,7 +242,10 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
+<<<<<<< .merge_file_a03144
+      <pane id="PackagesPane" />
+=======
+>>>>>>> .merge_file_a11164
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -201,7 +256,11 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+<<<<<<< .merge_file_a03144
+=======
       <pane id="PackagesPane" />
+>>>>>>> .merge_file_a11164
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -224,10 +283,27 @@
 =======
 >>>>>>> e078dced6305287bd168b4497e88d185c1a2ada3
   </component>
-  <component name="RunManager" selected="Application.Peaklass">
+  <component name="RunManager" selected="Application.Suhtlus">
     <configuration default="false" name="Peaklass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Peaklass" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="lauam2ng" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Suhtlus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Suhtlus" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -456,6 +532,7 @@
       <envs />
       <method />
     </configuration>
+<<<<<<< .merge_file_a04868
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -485,11 +562,16 @@
       <method />
     </configuration>
     <list size="1">
+=======
+    <list size="2">
+>>>>>>> .merge_file_a01208
       <item index="0" class="java.lang.String" itemvalue="Application.Peaklass" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Suhtlus" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.Peaklass" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.Suhtlus" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Peaklass" />
       </list>
     </recent_temporary>
   </component>
@@ -511,11 +593,21 @@
       <workItem from="1425986003865" duration="5982000" />
       <workItem from="1426075210340" duration="534000" />
       <workItem from="1426249609375" duration="2203000" />
+<<<<<<< .merge_file_a04868
 >>>>>>> e078dced6305287bd168b4497e88d185c1a2ada3
+=======
+<<<<<<< .merge_file_a03144
+      <workItem from="1426254865004" duration="39000" />
+=======
+      <workItem from="1426252476157" duration="2222000" />
+      <workItem from="1426254972830" duration="277000" />
+>>>>>>> .merge_file_a11164
+>>>>>>> .merge_file_a01208
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< .merge_file_a04868
 <<<<<<< HEAD
     <option name="totallyTimeSpent" value="8554000" />
 =======
@@ -524,6 +616,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="1" />
+=======
+<<<<<<< .merge_file_a03144
+    <option name="totallyTimeSpent" value="8758000" />
+=======
+    <option name="totallyTimeSpent" value="11218000" />
+>>>>>>> .merge_file_a11164
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+>>>>>>> .merge_file_a01208
     <editor active="true" />
     <layout>
 <<<<<<< HEAD
@@ -555,14 +657,12 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34094617" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25718608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -572,13 +672,15 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
 >>>>>>> e078dced6305287bd168b4497e88d185c1a2ada3
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34094617" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -613,30 +715,129 @@
 <<<<<<< HEAD
 =======
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="272">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+<<<<<<< .merge_file_a03144
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="289">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Täring.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="204">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="255">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Nupp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="527">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
           <folding>
-            <element signature="e#111#112#0" expanded="true" />
-            <element signature="e#138#139#0" expanded="true" />
             <element signature="e#169#170#0" expanded="true" />
             <element signature="e#199#200#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ÜksikVäli.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mänguväli.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="153">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Suhtlus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#214#220#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Peaklass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Täring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="255">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Nupp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="527">
+          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+          <folding>
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ÜksikVäli.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mänguväli.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="153">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Peaklass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="272">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+>>>>>>> .merge_file_a11164
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Täring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="255">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Nupp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="527">
+          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+          <folding>
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -758,18 +959,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Nupp.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .merge_file_a04868
 <<<<<<< HEAD
         <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="272">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
 =======
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+>>>>>>> .merge_file_a01208
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#111#112#0" expanded="true" />
-            <element signature="e#138#139#0" expanded="true" />
             <element signature="e#169#170#0" expanded="true" />
             <element signature="e#199#200#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -790,11 +992,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Mänguväli.java">
+    <entry file="file://$PROJECT_DIR$/src/Peaklass.java">
+<<<<<<< .merge_file_a03144
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
+        <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="272">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Täring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="204">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Nupp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#111#112#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -802,19 +1027,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+>>>>>>> .merge_file_a11164
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< .merge_file_a03144
+    <entry file="file://$PROJECT_DIR$/src/Mänguväli.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="153">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+=======
     <entry file="file://$PROJECT_DIR$/src/Täring.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
           <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+<<<<<<< .merge_file_a04868
 >>>>>>> e078dced6305287bd168b4497e88d185c1a2ada3
+=======
+>>>>>>> .merge_file_a11164
+>>>>>>> .merge_file_a01208
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< .merge_file_a04868
     <entry file="file://$PROJECT_DIR$/src/Täring.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="204">
@@ -838,6 +1079,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> .merge_file_a01208
     <entry file="file://$PROJECT_DIR$/src/ÜksikVäli.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
@@ -848,6 +1091,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Mänguväli.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .merge_file_a04868
         <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="153">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
@@ -874,12 +1118,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+>>>>>>> .merge_file_a01208
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Nupp.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .merge_file_a04868
 <<<<<<< HEAD
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
           <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
@@ -893,17 +1142,23 @@
 =======
         <state vertical-scroll-proportion="0.0" vertical-offset="80" max-vertical-offset="527">
           <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+>>>>>>> .merge_file_a01208
           <folding>
-            <element signature="e#111#112#0" expanded="true" />
-            <element signature="e#138#139#0" expanded="true" />
             <element signature="e#169#170#0" expanded="true" />
             <element signature="e#199#200#0" expanded="true" />
+<<<<<<< .merge_file_a04868
             <element signature="e#280#281#0" expanded="true" />
 >>>>>>> e078dced6305287bd168b4497e88d185c1a2ada3
+=======
+>>>>>>> .merge_file_a01208
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< .merge_file_a04868
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Väli2edasi.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -927,10 +1182,30 @@
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
 =======
     <entry file="file://$PROJECT_DIR$/src/Peaklass.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/Suhtlus.java">
+>>>>>>> .merge_file_a01208
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31648937" vertical-offset="0" max-vertical-offset="376">
+<<<<<<< .merge_file_a03144
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
           <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
 >>>>>>> e078dced6305287bd168b4497e88d185c1a2ada3
+          <folding />
+=======
+        <state vertical-scroll-proportion="0.88297874" vertical-offset="42" max-vertical-offset="527">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#214#220#0" expanded="true" />
+          </folding>
+>>>>>>> .merge_file_a11164
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mänguväli.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.02905983" vertical-offset="0" max-vertical-offset="585">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
