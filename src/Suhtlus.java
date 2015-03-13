@@ -1,9 +1,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/**
- * Created by Madis on 13.03.2015.
- */
 public class Suhtlus {
     public static void main(String[] args) {
         ArrayList<Nupp> mängijad = new ArrayList<Nupp>();

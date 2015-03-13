@@ -17,6 +17,11 @@ public class Nupp {
         this.asukoht = asukoht + muut;
     }
 
+    @Override
+    public String toString() {
+        return nimi + " @" + asukoht ;
+    }
+
     //konstruktor
     public Nupp(String nimi) {
         this.nimi = nimi;
