@@ -1,5 +1,6 @@
-/**
- * Created by Madis on 14.03.2015.
- */
+
 public class Väli3tagasi {
+    public static void liigutagasi(Nupp a){
+        a.asukoht -= 3;
+    }
 }
