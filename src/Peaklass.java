@@ -24,16 +24,19 @@ public class Peaklass {
             mänguväli.add(new Väli());
         }
         int k = 0;
-        boolean check = true;
-        while(check){
+        System.out.println(mänguväli.size());
+        while(true){
             int veeretus = y.vise();
             System.out.println(mängijad.get(k) + " veeretas " + veeretus);
             mängijad.get(k).setAsukoht(veeretus);
-            System.out.println("Ta on nüüd " + mängijad.get(k).getAsukoht() + ". väljal.");
             if(mängijad.get(k).getAsukoht() >= mänguväli.size()){
                 System.out.println("Võitis " + mängijad.get(k));
                 break;
             }
+            while (!(mänguväli.get(mängijad.get(k).asukoht) instanceof Väli)){
+
+            }
+            System.out.println("Ta on nüüd " + mängijad.get(k).getAsukoht() + ". väljal.");
             k++;
             if(k == mängijad.size()){
                 k = 0;
