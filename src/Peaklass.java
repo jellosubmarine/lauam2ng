@@ -47,11 +47,11 @@ public class Peaklass {
             while (!(mänguväli.get(mängijad.get(k).asukoht) instanceof Väli)){
                 if (mänguväli.get(mängijad.get(k).asukoht) instanceof Väli2edasi){
                     Väli2edasi.liiguedasi(mängijad.get(k));
-                    System.out.println("Ta on nüüd " + mängijad.get(k).getAsukoht() + ". väljal.");
+                    System.out.println(mängijad.get(k)+ " läheb 2 ruutu edasi. Ta on nüüd " + mängijad.get(k).getAsukoht() + ". väljal.");
                 }
                 else if (mänguväli.get(mängijad.get(k).asukoht) instanceof Uusveeretus){
                     veeretus = y.vise();
-                    System.out.println(mängijad.get(k) + " veeretas " + veeretus);
+                    System.out.println(mängijad.get(k) + " veeretas uuesti. Sai " + veeretus);
                     mängijad.get(k).setAsukoht(veeretus);
                     System.out.println("Ta on nüüd " + mängijad.get(k).getAsukoht() + ". väljal.");
                 }
