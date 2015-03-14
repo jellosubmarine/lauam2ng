@@ -36,27 +36,28 @@ public class Peaklass {
         System.out.println(mänguväli);
         int k = 0;
         while(true){
+            Nupp hetkmängija = mängijad.get(k);
             int veeretus = y.vise();
-            System.out.println(mängijad.get(k) + " veeretas " + veeretus);
-            mängijad.get(k).setAsukoht(veeretus);
-            if(mängijad.get(k).getAsukoht() >= mänguväli.size()){
-                System.out.println("Võitis " + mängijad.get(k));
+            System.out.println(hetkmängija + " veeretas " + veeretus);
+            hetkmängija.setAsukoht(veeretus);
+            if(hetkmängija.getAsukoht() >= mänguväli.size()){
+                System.out.println("Võitis " + hetkmängija);
                 System.exit(0);
             }
-            System.out.println("Ta on nüüd " + mängijad.get(k).getAsukoht() + ". väljal.");
-            while (!(mänguväli.get(mängijad.get(k).asukoht) instanceof Väli)){
-                if (mänguväli.get(mängijad.get(k).asukoht) instanceof Väli2edasi){
-                    Väli2edasi.liiguedasi(mängijad.get(k));
-                    System.out.println(mängijad.get(k)+ " läheb 2 ruutu edasi. Ta on nüüd " + mängijad.get(k).getAsukoht() + ". väljal.");
+            System.out.println("Ta on nüüd " + hetkmängija.getAsukoht() + ". väljal.");
+            while (!(mänguväli.get(hetkmängija.asukoht) instanceof Väli)){
+                if (mänguväli.get(hetkmängija.asukoht) instanceof Väli2edasi){
+                    Väli2edasi.liiguedasi(hetkmängija);
+                    System.out.println(hetkmängija+ " läheb 2 ruutu edasi. Ta on nüüd " + hetkmängija.getAsukoht() + ". väljal.");
                 }
-                else if (mänguväli.get(mängijad.get(k).asukoht) instanceof Uusveeretus){
+                else if (mänguväli.get(hetkmängija.asukoht) instanceof Uusveeretus){
                     veeretus = y.vise();
-                    System.out.println(mängijad.get(k) + " veeretas uuesti. Sai " + veeretus);
-                    mängijad.get(k).setAsukoht(veeretus);
-                    System.out.println("Ta on nüüd " + mängijad.get(k).getAsukoht() + ". väljal.");
+                    System.out.println(hetkmängija + " veeretas uuesti. Sai " + veeretus);
+                    hetkmängija.setAsukoht(veeretus);
+                    System.out.println("Ta on nüüd " + hetkmängija.getAsukoht() + ". väljal.");
                 }
-                if(mängijad.get(k).getAsukoht() >= mänguväli.size()){
-                    System.out.println("Võitis " + mängijad.get(k));
+                if(hetkmängija.getAsukoht() >= mänguväli.size()){
+                    System.out.println("Võitis " + hetkmängija);
                     System.exit(0);
                 }
             }
