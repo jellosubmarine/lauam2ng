@@ -20,7 +20,7 @@ public class Peaklass {
 
         ArrayList<Object> mänguväli = new ArrayList<Object>();
 
-        for (int j = 1; i <= 40; i++){ //teeb mänguvälja suurusega 40
+        for (i = 1; i <= 40; i++){ //teeb mänguvälja suurusega 40
             mänguväli.add(new Väli());
         }
         int k = 0;
@@ -30,7 +30,7 @@ public class Peaklass {
             System.out.println(mängijad.get(k) + " veeretas " + veeretus);
             mängijad.get(k).setAsukoht(veeretus);
             if(mängijad.get(k).getAsukoht() >= mänguväli.size()){
-                System.out.println("Võitis " + mängijad.get(k));
+                System.out.println("Võitis " + mängijad.get(k) + "! Ta on väljal " + mängijad.get(k).getAsukoht());
                 break;
             }
             while (!(mänguväli.get(mängijad.get(k).asukoht) instanceof Väli)){
