@@ -8,7 +8,6 @@ public class Peaklass {
         String enter; //inputi kontrollimine
 
         System.out.println("Tere tulemast mängima vana head lauamängu!");
-        System.out.println("This shit is made by Markus Veinla and Madis Kaspar Nigol\n");
         ArrayList<Nupp> mängijad = new ArrayList<Nupp>(); //mängijad
         Scanner sc = new Scanner(System.in);
         System.out.print("Sisesta mängijate arv: ");
@@ -65,15 +64,17 @@ public class Peaklass {
             }
 
             Nupp hetkmängija = mängijad.get(k);
-            int veeretus = y.vise();
+            int veeretus = y.vise(); //toimub veeretamine
             System.out.println(hetkmängija + " veeretas " + veeretus);
-            hetkmängija.setAsukoht(veeretus);
+            hetkmängija.setAsukoht(veeretus); //mängija liigub vastavalt veeretusele edasi
             if(hetkmängija.getAsukoht() >= mänguväli.size()){ //kontrollib kas mängija võitis
                 System.out.println("Võitis " + hetkmängija);
                 System.exit(0);
             }
             System.out.println("Ta on nüüd " + hetkmängija.getAsukoht() + ". väljal.");
-            while (!(mänguväli.get(hetkmängija.asukoht) instanceof Väli)){
+            while (!(mänguväli.get(hetkmängija.asukoht) instanceof Väli)){ /*See tsükkel kestab seni, kuni mängija
+            langeb tavalisele väljale. Kontrollitakse, mis tüüpi erilisele väljale mängija sattus ning
+            vastavalt sellele viiakse läbi tegevused*/
                 if (mänguväli.get(hetkmängija.asukoht) instanceof Väli2edasi){
                     Väli2edasi.liiguedasi(hetkmängija);
                     System.out.println(hetkmängija + " läheb 2 ruutu edasi. Ta on nüüd " + hetkmängija.getAsukoht() + ". väljal.");

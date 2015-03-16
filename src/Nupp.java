@@ -1,5 +1,5 @@
 
-public class Nupp {
+public class Nupp { //Mängija nupp, kus on salvestatud mängija nimi ja asukoht.
 
     int asukoht = 0;
     String nimi;

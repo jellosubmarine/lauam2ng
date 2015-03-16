@@ -1,3 +1,3 @@
 
-public class Väli {
+public class Väli { //Tavaline väli, kus tegevusi ei ole
 }
